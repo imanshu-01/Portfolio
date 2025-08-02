@@ -1,4 +1,4 @@
-# 🌐 Himanshu Narayan Patle - Portfolio
+# 🌐 Himanshu Patle - Portfolio
 
 Welcome to the official GitHub repository for my personal portfolio website, built to showcase my projects, skills, and achievements as a developer.
 
